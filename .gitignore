@@ -1,9 +1,9 @@
 # Removing PHP files and folders
-includes
-*.php
+#includes
+#*.php
 
 # Removing JS files and folders
-js
+# js
 
 # Removing VS Code folder
 .vscode
